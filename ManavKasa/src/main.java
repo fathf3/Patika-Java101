@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.time.LocalDate;
 
 public class main {
 
@@ -28,6 +29,6 @@ public class main {
 		fiyat = (ARMUT*alinanArmut)+(ELMA*alinanElma)+(DOMATES*alinanDomates)+(MUZ*alinanMuz)+(PATLICAN*alinanPatlican);
 	
 		System.out.println("Ucret : "+fiyat+"TL");
-	}
+		}
 
 }
