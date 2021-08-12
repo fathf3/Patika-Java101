@@ -9,3 +9,27 @@ Patida.dev Java101 ders ödevleri
 # Hayvanat Bahcesi Diagram
 
 ![](https://i.hizliresim.com/i0e7743.png)
+
+# Ucus Sistemi Diagram
+![](https://i.hizliresim.com/jfytctf.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
