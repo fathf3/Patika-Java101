@@ -13,7 +13,8 @@ Patida.dev Java101 ders ödevleri
 # Ucus Sistemi Diagram
 ![](https://i.hizliresim.com/jfytctf.png)
 
-
+# Film Diagram
+![](https://i.hizliresim.com/s1ry8rb.png)
 
 
 
